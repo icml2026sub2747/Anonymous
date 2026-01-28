@@ -91,7 +91,7 @@
           <image src="https://github.com/user-attachments/assets/1e6d5ecc-d228-4c57-a063-518fb54e45a1" width="50%" controls preload loop></image>
       </td>
       <td>
-           <video src="https://github.com/user-attachments/assets/34abc2f6-1d4d-4b17-92ab-891bbc349c74" width="100%" controls preload loop></video>
+           <video src="https://github.com/user-attachments/assets/2d60d905-cfae-4f34-8753-62370e2bf764" width="100%" controls preload loop></video>
       </td>
        <td>
           ... a playful room with colorful toys, sub1... stands ... a powerful pose... said: “I'm a superhero, let me handle...”
@@ -204,13 +204,13 @@
           <image src="https://github.com/user-attachments/assets/6c989328-2d78-4d24-975c-160c13ad135f" width="50%" controls preload loop></image>
       </td>
       <td>
-           <video src="https://github.com/user-attachments/assets/164915ef-e61f-4453-8d44-0aee65d9ce4a" width="100%" controls preload loop></video>
+           <video src="https://github.com/user-attachments/assets/70a581c7-af1e-4794-a739-fbea5a141d01" width="100%" controls preload loop></video>
       </td>
       <td>
           <image src="https://github.com/user-attachments/assets/e86bcf94-0651-43c2-96a2-ce7ce939b666" width="50%" controls preload loop></image>
       </td>
       <td>
-           <video src="https://github.com/user-attachments/assets/d91a0c1d-a45f-4578-850d-6ed30a1a69b3" width="100%" controls preload loop></video>
+           <video src="https://github.com/user-attachments/assets/24c52e31-3638-4c32-923a-d2b676891ba9" width="100%" controls preload loop></video>
       </td>
        <td>
           ...at a family wedding reception, ... sub1 on the left... said: “Look, how magnificent it is!”,  sub2 ... smiles warmly and replies: “Yes, I just can't believe it.”
